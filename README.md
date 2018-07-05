@@ -1,8 +1,8 @@
 # ClusteringInThePresenceOfConceptDrift
-This repository contains raw data and additional materials for the paper “Clustering in the Presence
-of Concept Drift,” which has been accepted for presentation at the 2018 European
-Conference on Machine Learning and Principles and Practice of Knowledge Discovery
-in Databases as well as inclusion in the Springer LNCS conference proceedings.
+This repository contains additional materials for the paper “Clustering in the Presence of Concept Drift,” which has been accepted for presentation at the 2018 European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases as well as inclusion in the Springer LNCS conference proceedings.
+
+This repository has a DOI: [![DOI](https://zenodo.org/badge/139627201.svg)](https://zenodo.org/badge/latestdoi/139627201)
+
 
 CITATION: Provided when available
 
